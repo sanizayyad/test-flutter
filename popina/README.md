@@ -1,4 +1,4 @@
-# YMoney Test
+# Popina Test
 
 Popina  Test project in flutter. The project supports both Android and IOS.
 
